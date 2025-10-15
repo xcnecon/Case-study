@@ -1,5 +1,3 @@
-Hi Chenning,
-
 Thank you very much for your time for going through the interview thus far. Our team who you have met so far all find you likable. Please work on an investment case on: VITL-US. It can be either long or short with specified upside % return or downside % return over both a 6-month AND a 3-year time horizon, so two numbers (note: cannot be neutral).
 
 Due date is Oct 30th at 11:59AM (Eastern Time).
@@ -31,10 +29,3 @@ It should include the below (if possible):
 You may use Deepseek, Grok, Gemini or any tools at your hand to assist on the task but please verify their credibility to the extent possible. When unable to verify on important drivers or key discussion points, please specify that you don’t have enough time to do it in parenthesis for handling the final deliverables as “(will verify later if time)”. We will find unacceptable any inconsistency between financial model and word doc thesis.
 
 Your work is expected to have human touch despite the use of AI tools to assist you so please also clarify if you have utilized any personal connection(s) or expert network for the study if any.
-
- 
-
-Best,
-
-April
-
