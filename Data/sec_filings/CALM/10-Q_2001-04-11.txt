@@ -1,0 +1,755 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>r10q1q.txt
+<DESCRIPTION>CAL-MAINE 10Q 1ST QUARTER (2001)
+<TEXT>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                              Washington, DC 20549
+
+                                   FORM 10-Q
+
+(mark one)
+
+|X|       Quarterly  report  pursuant to Section 13 or 15(d) of the Securities
+          Exchange Act of 1934
+
+                 For the quarterly period ended March 3, 2001
+
+                                      OR
+
+|_|       Transition  report pursuant to Section 13 or 15(d) of the Securities
+          Exchange Act of 1934
+
+          For the transition period from ____________ to ____________
+
+Commission file number: 000-04892
+
+                             CAL-MAINE FOODS, INC.
+            (Exact name of registrant as specified in its charter)
+
+          Delaware                                       64-0500378
+(State or other Jurisdiction of            (I.R.S. Employer Identification No.)
+Incorporation or Organization)
+
+            3320 Woodrow Wilson Avenue, Jackson, Mississippi 39209
+              (Address of principal executive offices) (Zip Code)
+
+                                (601) 948-6813
+             (Registrant's telephone number, including area code)
+
+
+     Indicate by check mark whether the registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities  Exchange Act of
+1934  during the  preceding  12 months (or for such  shorter  period  that the
+registrant  was  required to file such  reports),  and (2) has been subject to
+such filing requirements for the past 90 days.
+                                 Yes [X] No [ ]
+
+     Number of shares  outstanding  of each of the issuer's  classes of common
+stock (exclusive of treasury shares), as of March 30, 2001.
+
+       Common Stock, $0.01 par value                      10,717,888 shares
+
+       Class A Common Stock, $0.01 par value               1,200,000 shares
+
+<PAGE>
+
+
+                             CAL-MAINE FOODS, INC.
+
+                                     INDEX
+
+                                                                        Page
+                                                                        Number
+
+Part I.     Financial Information
+
+     Item 1.   Condensed Consolidated Financial Statements (unaudited)
+
+               Condensed  Consolidated Balance Sheets -
+               March 3, 2001 and June 3, 2000                             3
+
+               Condensed  Consolidated   Statements  of
+               Operations   -  Three  Months  and  Nine
+               Months  Ended March 3, 2001 and February
+               26, 2000                                                   4
+
+               Condensed  Consolidated   Statements  of
+               Cash Flow - Nine  Months  Ended March 3,
+               2001 and February 26, 2000                                 5
+
+               Notes    to    Condensed    Consolidated
+               Financial Statements                                       6
+
+     Item 2.   Management's   Discussion   and  Analysis  of
+               Financial Condition and Results of Operations              7
+
+     Item 3.   Quantitative  and Qualitative  Disclosures of
+               Market Risk                                               11
+
+Part II.    Other Information
+
+     Item 6.   Exhibits and Reports on Form 8-K                          12
+
+
+     Signatures                                                          13
+
+                                      2
+
+<PAGE>
+
+
+                         PART I. FINANCIAL INFORMATION
+
+ITEM 1.   FINANCIAL STATEMENTS
+<TABLE>
+<CAPTION>
+
+                    CAL-MAINE FOODS, INC. AND SUBSIDIARIES
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+                     (in thousands, except share amounts)
+                                                                      March 3, 2001              June 3, 2000
+                                                                    ------------------------------------------
+                                                                       (unaudited)                  (Note 1)
+ASSETS
+<S>                                                                 <C>                             <C>
+Current assets:
+     Cash and cash equivalents                                      $   6,379                       $    6,541
+     Accounts receivable, net                                          21,196                           14,299
+     Note receivable from affiliate                                         -                              271
+     Recoverable federal and state income taxes                           304                            4,509
+     Inventories                                                       48,570                           43,913
+     Prepaid expenses and other current assets                            352                              797
+                                                                    ------------------------------------------
+Total current assets                                                   76,801                           70,330
+
+Notes receivable and investments                                        7,541                            7,932
+Goodwill                                                                3,207                            3,390
+Other assets                                                            2,776                            2,110
+
+Property, plant and equipment                                         243,866                          237,098
+Less accumulated depreciation                                        (100,209)                         (88,961)
+                                                                    ------------------------------------------
+                                                                      143,657                          148,137
+                                                                    ==========================================
+     TOTAL ASSETS                                                   $ 233,982                       $ 231,899
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+     Notes payable to banks                                         $       -                       $   7,500
+     Accounts payable and accrued expenses                             32,798                          25,953
+     Current maturities of long-term debt                               6,957                           7,105
+     Current deferred income taxes                                     11,287                          11,287
+                                                                    ------------------------------------------
+Total current liabilities                                              51,042                          51,845
+
+Long-term debt, less current maturities                               110,854                         112,631
+Deferred expenses                                                       1,489                           1,489
+Deferred income taxes                                                   4,581                           4,581
+                                                                    ------------------------------------------
+     Total liabilities                                                167,966                         170,546
+
+Stockholders' equity:
+     Common stock $0.01 par value per share:
+        Authorized shares - 30,000,000
+        Issued and outstanding shares - 17,565,200 at March 3,
+        2001 and June 3, 2000                                             176                             176
+     Class A common stock $0.01 par value: authorized, issued
+        and outstanding 1,200,000 shares                                   12                              12
+     Paid-in capital                                                   18,784                          18,784
+     Retained earnings                                                 59,471                          53,535
+     Common stock in treasury - 6,842,212 shares at March 3,
+     2001 and 6,550,912 shares at June 3, 2000                        (12,427)                        (11,154)
+                                                                    ------------------------------------------
+     Total stockholders' equity                                        66,016                          61,353
+                                                                    ------------------------------------------
+     TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                     $ 233,982                       $ 231,899
+                                                                    ==========================================
+</TABLE>
+
+         See notes to condensed consolidated financial statements.
+
+                                      3
+
+<PAGE>
+
+
+                     CAL-MAINE FOODS, INC. AND SUBSIDIARIES
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (in thousands, except per share amounts)
+                                    UNAUDITED
+<TABLE>
+<CAPTION>
+
+                                                           13 Weeks Ended                                 39 Weeks Ended
+                                                   March 3, 2001      February 26, 2000         March 3, 2001   February 26, 2000
+                                         ----------------------- ------------------------ ---------------------------------------
+
+<S>                                                  <C>              <C>                         <C>             <C>
+Net sales                                            $103,913         $ 79,191                    $272,020        $209,300
+Cost of sales                                          83,354           72,644                     225,297         194,352
+                                                     ----------------------------------------------------------------------------
+     Gross profit                                      20,559            6,547                      46,723          14,948
+Selling, general and
+     administrative                                    11,148           10,780                      31,698          29,489
+                                                     ----------------------------------------------------------------------------
+Operating income (loss)                                 9,411           (4,233)                     15,025         (14,541)
+Other income (expense):
+     Interest expense, net                             (2,288)          (2,071)                     (6,759)         (4,679)
+     Other                                                395               46                       1,778             180
+                                                     ----------------------------------------------------------------------------
+                                                       (1,893)          (2,025)                     (4,981)         (4,499)
+                                                     ----------------------------------------------------------------------------
+Income (loss) before income
+     taxes                                              7,518           (6,258)                     10,044         (19,040)
+Income tax expense (benefit)                            2,730           (2,261)                      3,652          (6,947)
+                                                     ----------------------------------------------------------------------------
+    NET INCOME (LOSS)                                $  4,788         $ (3,997)                   $  6,392        $(12,093)
+                                                     ============================================================================
+Net income (loss) per common
+     share:
+     Basic                                           $    .40         $   (.32)                   $    .53        $   (.98)
+                                                     ============================================================================
+     Diluted                                         $    .40         $   (.32)                   $    .53        $   (.98)
+                                                     ============================================================================
+Dividends per common share                           $  .0125         $  .0125                    $  .0375        $  .0375
+                                                     ============================================================================
+Weighted average shares
+     outstanding:
+     Basic                                             11,983           12,349                      12,096          12,401
+                                                     ============================================================================
+     Diluted                                           12,088           12,349                      12,156          12,401
+                                                     ============================================================================
+</TABLE>
+See notes to condensed consolidated financial statements.
+
+                                      4
+
+<PAGE>
+
+
+                    CAL-MAINE FOODS, INC. AND SUBSIDIARIES
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                (in thousands)
+                                   UNAUDITED
+<TABLE>
+<CAPTION>
+
+
+                                                                                         39 Weeks Ended
+                                                                             March 3, 2001             February 26, 2000
+                                                                            --------------------------------------------
+
+<S>                                                                            <C>                         <C>
+Cash flows provided by (used in) operating activities                          $ 18,662                    $(10,082)
+
+Cash flows from investing activities:
+     Purchases of property, plant and equipment                                  (2,482)                     (4,526)
+     Construction of production facilities                                       (6,266)                    (12,697)
+     Purchases of shell egg production and processing business                        -                     (36,205)
+     Payments received on notes receivable and from investments                     939                         496
+     Increase in note receivable, investments and other assets                     (468)                     (2,704)
+     Net proceeds from sale of property, plant and equipment                        607                         331
+                                                                               -------------------------------------
+Net cash used in investing activities                                            (7,670)                    (55,305)
+
+Cash flows from financing activities:
+     Net borrowings (payments) on notes payable to banks                         (7,500)                      1,000
+     Long-term borrowings                                                         3,106                      40,295
+     Principal payments on long-term debt                                        (5,031)                     (3,190)
+     Purchases of common stock for treasury                                      (1,273)                       (957)
+     Payment of dividends                                                          (456)                       (457)
+                                                                               -------------------------------------
+Net cash provided by (used in) financing activities                             (11,154)                     36,691
+                                                                               -------------------------------------
+Net change  in cash and cash equivalents                                           (162)                    (28,696)
+
+Cash and cash equivalents at beginning of period                                  6,541                      36,198
+                                                                               -------------------------------------
+Cash and cash equivalents at end of period                                     $  6,379                     $ 7,502
+                                                                               =====================================
+</TABLE>
+See notes to condensed consolidated financial statements.
+
+                                      5
+
+<PAGE>
+
+
+                    CAL-MAINE FOODS, INC. AND SUBSIDIARIES
+             Notes to Condensed Consolidated Financial Statements
+                     (in thousands, except share amounts)
+                                 March 3, 2001
+                                  (unaudited)
+
+1.   Presentation of Interim Information
+
+     The accompanying  unaudited condensed  consolidated  financial statements
+have been prepared in accordance with generally accepted accounting principles
+for interim  financial  information and with the instructions to Form 10-Q and
+Article 10 of  Regulation  S-X.  Accordingly,  they do not  include all of the
+information and footnotes required by generally accepted accounting principles
+for  complete  financial  statements.  In the opinion of the  management , all
+adjustments (consisting of normal recurring accruals) considered necessary for
+a fair presentation have been included.  Operating results for the three-month
+and nine-month  periods ended March 3, 2001 are not necessarily  indicative of
+the results that may be expected for the year ended June 2, 2001.
+
+     The  balance  sheet at June 3,  2000 has been  derived  from the  audited
+financial  statements at that date but does not include all of the information
+and  footnotes  required  by  generally  accepted  accounting  principles  for
+complete financial statements.
+
+     For further information,  refer to the consolidated  financial statements
+and footnotes  thereto included in the Cal-Maine Foods,  Inc. and Subsidiaries
+Annual Report on Form 10-K for the year ended June 3, 2000.
+
+2.   Inventories
+
+     Inventories consisted of the following:
+
+                                    March 3, 2001               June 3, 2000
+                              ---------------------- --------------------------
+
+        Flocks                       $30,958                   $ 28,417
+        Eggs                           3,458                      2,417
+        Feed and supplies             11,388                     10,028
+        Livestock                      2,766                      3,051
+                              ---------------------- --------------------------
+                                     $48,570                   $ 43,913
+                              ========================= =======================
+
+                                      6
+
+<PAGE>
+
+
+ITEM 2. MANAGEMENTS'S  DISCUSSION  AND ANALYSIS OF FINANCIAL
+        CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+     The Company is primarily  engaged in the production,  cleaning,  grading,
+packing,  and sale of fresh shell eggs.  The Company's  fiscal year end is the
+Saturday nearest to May 31.
+
+     The Company's  operations  are fully  integrated.  It owns  facilities to
+hatch chicks,  grow  pullets,  manufacture  feed,  and produce,  process,  and
+distribute  shell eggs.  The Company  currently  is the largest  producer  and
+distributor  of fresh shell eggs in the United  States.  The shell egg segment
+sales, including feed sales to outside egg producers, accounted for 98% of the
+Company's  net sales.  The  Company  primarily  markets  its shell eggs in the
+southwestern, southeastern, mid-western and mid-Atlantic regions of the United
+States.  Shell eggs are sold directly by the Company primarily to national and
+regional supermarket chains.
+
+     The Company  currently uses contract  producers for  approximately 18% of
+its total egg production. Contract producers operate under agreements with the
+Company for the use of their  facilities  in the  production  of shell eggs by
+layers owned by the Company,  which owns the eggs produced.  Also,  shell eggs
+are purchased, as needed, from outside producers for resale by the Company.
+
+     The  Company's  operating  income or loss is  significantly  affected  by
+wholesale shell egg market prices,  which can fluctuate widely and are outside
+of the Company's  control.  Retail sales of shell eggs are greatest during the
+fall and winter months and lowest during the summer  months.  Prices for shell
+eggs fluctuate in response to seasonal  factors and a natural  increase in egg
+production during the spring and early summer.
+
+     The Company's  cost of  production is materially  affected by feed costs,
+which average about 60% of Cal-Maine's total farm egg production cost. Changes
+in feed costs result in changes in the Company's  cost of goods sold. The cost
+of feed  ingredients is affected by a number of supply and demand factors such
+as crop production and weather, and other factors,  such as the level of grain
+exports, over which the Company has little or no control.
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth, for the periods indicated,  certain items
+from the Company's Condensed  Consolidated  Statements of Operations expressed
+as a percentage of net sales.
+<TABLE>
+<CAPTION>
+
+                                                                    Percentage of Net Sales
+                                                 13 Weeks Ended                                39 Weeks Ended
+                                      March 3, 2001          Feb. 26, 2000        March 3, 2001         Feb. 26, 2000
+                                      -------------------------------------------------------------------------------
+
+<S>                                      <C>                     <C>                   <C>                  <C>
+Net sales                                100.0%                  100.0%                100.0%               100.0%
+Cost of sales                             80.2                    91.7                  82.8                 92.9
+                                      ------------------------------------------------------------------------------
+Gross profit                              19.8                     8.3                  17.2                  7.1
+Selling, general &
+administrative                            10.7                    13.6                  11.7                 14.0
+                                      ------------------------------------------------------------------------------
+Operating income (loss)                    9.1                    (5.3)                  5.5                 (6.9)
+Other expense                             (1.9)                   (2.6)                 (1.9)                (2.2)
+                                      ------------------------------------------------------------------------------
+Income (loss) before taxes                 7.2                    (7.9)                  3.6                 (9.1)
+Income tax expense (benefit)               2.6                    (2.9)                  1.3                 (3.3)
+                                      ------------------------------------------------------------------------------
+Net income (loss)                          4.6%                   (5.0)%                 2.3%                (5.8)%
+                                      ==============================================================================
+</TABLE>
+
+                                      7
+
+<PAGE>
+
+
+     NET SALES
+
+     Net sales for the third  quarter of fiscal 2001 were $103.9  million,  an
+increase of $24.7 million,  or 31.2% as compared to net sales of $79.2 million
+for the third quarter of fiscal 2000.  Total dozens of eggs sold  increased in
+the current  quarter and egg selling prices  increased as compared with prices
+last year.  Dozens sold for the current  quarter were 140.5 million dozen,  an
+increase of 2.3  million  dozen,  or 1.7% as compared to the third  quarter of
+last year.  Good  consumer  demand and lower  balanced egg supply  resulted in
+higher egg  selling  prices  during the current  quarter.  The  Company's  net
+average  selling  price per dozen for the fiscal 2001 third quarter was $.704,
+compared to $.536 for the third quarter of last year, an increase of 31.3%.
+
+     Net sales  for the  thirty-nine  weeks  ended  March 3, 2001 were  $272.0
+million,  an increase of $62.7 million,  or 30.0%, as compared to net sales of
+$209.3 million for last year. As in the current quarter, total dozens sold and
+net egg selling prices  increased.  Dozens sold for the current 39 week period
+were 408.9  million as compared to 379.3  million  for last  fiscal  year,  an
+increase of 7.8%.  For the current 39 week period,  the  Company's net average
+selling  price per dozen was $.633,  compared to $.512 per dozen last year, an
+increase of $.121 per dozen, or 23.6%.
+
+     COST OF SALES
+
+     Cost of  sales  for the  third  quarter  ended  March 3,  2001 was  $83.4
+million,  an increase of $10.7 million, or 14.7%, as compared to cost of sales
+of $72.6  million  for last  year's  third  quarter.  The  increase  is due to
+increases in dozens sold,  cost of purchases from outside egg  producers,  and
+cost of feed ingredients. Dozens of eggs sold increased 1.7%. These additional
+dozens  were the net  result of an  increase  in dozens  produced  in  Company
+facilities  and a decrease in the number of dozens  purchased from outside egg
+producers.  An  increase  in the  cost  of the  eggs  purchased  from  outside
+producers was due to improved egg market  conditions.  Feed cost for the third
+quarter  ended  March 3, 2001 was $.213 per  dozen,  compared  to last  fiscal
+year's cost per dozen of $.182, an increase of 17.0%.  The increases in dozens
+sold and improved egg selling  prices  resulted in an increase in gross profit
+from 8.3% of net sales for the quarter ended February 26, 2000 to 19.8% of net
+sales for the current quarter ended March 3, 2001.
+
+     For the  thirty-nine  week period ended March 3, 2001,  cost of sales was
+$225.3,  an increase of $30.9 million,  or 15.9%, as compared to cost of sales
+of $194.4  million for last year.  As in the quarter,  the increase in cost of
+sales is the result of more dozens sold, higher outside egg purchase cost, and
+an increase in the cost of feed. Eggs sold increased 29.6 million dozen in the
+current  year and were  supplied  by  Company  facilities.  Feed  cost for the
+current 39 weeks was $.198 per dozen,  compared  to $.182 per dozen last year,
+an increase of 8.8%.  The  improvements  in egg selling  prices and  increased
+dozens sold resulted in an increase in gross profit from 7.1% of net sales for
+the prior year 39 week period to 17.2% for the current 39 week period.
+
+     SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+     Selling,  general and administrative expenses for the third quarter ended
+March 3, 2001 were  $11.1  million,  an  increase  of  $368,000,  or 3.4%,  as
+compared to $10.8 million for last fiscal year's third  quarter.  The increase
+in cost is due to increased dozens sold and an increase in payroll and related
+expenses. On a cost per dozen sold basis, selling,  general and administrative
+expenses  remained about the same,  $.079 per dozen for the current quarter as
+compared to $.078 for the same  period in the prior year.  As a percent of net
+sales, selling,  general and administrative  expenses decreased from 13.6% for
+fiscal 2000 third quarter to 10.7% for the current quarter.
+
+     For the  thirty-nine  weeks  ended  March 3, 2001,  selling,  general and
+administrative  expenses were $31.7 million,  an increase of $2.2 million,  or
+7.5%,  as  compared to $29.5  million for the same period in the prior  fiscal
+year.  Approximately  one third of the increased cost was related to increases
+in  payroll  and  related  expenses,  with the  balance  made up of  increased
+delivery expenses.  For the current period, fuel cost increased 21.0% from the
+same period in the prior year and has also increased outside contract trucking
+cost.  On a cost per dozen sold basis,  selling,  general  and  administrative
+expenses remained the same at $.077 for both fiscal years. As a percent of net
+sales, selling,  general and administrative expenses have decreased from 14.0%
+for the prior 39 week period to 11.7% for the current 39 week period.
+
+                                       8
+
+<PAGE>
+
+
+     OPERATING INCOME
+
+     As the result of the above,  operating  income was $9.4  million  for the
+third quarter  ended March 3, 2001,  as compared to an operating  loss of $4.2
+million for last year's fiscal third quarter. Operating income was 9.1% of net
+sales for the current  fiscal 2001 quarter,  compared to an operating  loss of
+5.3% of net sales for the same quarter in the prior year.
+
+     For the thirty-nine weeks ended March 3, 2001, operating income was $15.0
+million,  compared to an operating loss of $14.5 million for last fiscal year.
+Operating income was 5.5% of net sales for the current 39 week period compared
+to an  operating  loss of 6.9% of net  sales in the same  period  in the prior
+year.
+
+     OTHER EXPENSE
+
+     Other expense for the third quarter ended March 3, 2001 was $1.9 million,
+a decrease of $132,000,  as compared to the third quarter of last fiscal year.
+In the current  quarter,  net interest  expense  increased  $200,000 and other
+income increased  $300,000.  Net interest  expense  increased as the result of
+increased  borrowing,  primarily on the Company's line of credit,  which began
+during the second quarter of fiscal 2000,  increased through the first quarter
+of fiscal 2001 and was repaid during the current quarter. Other income for the
+current quarter increased from equity in income of affiliates. As a percent of
+net sales,  other expense was 1.9% for the current third quarter,  compared to
+2.6% for the same period in the prior year.
+
+     For the  thirty-nine  weeks ended March 3, 2001,  other  expense was $5.0
+million,  an increase of $482,000,  or 10.7%,  as compared to $4.5 million for
+the same  period in the prior  year.  For the  current  period,  net  interest
+expense  increased $2.1 million and other income  increased $1.6 million.  Net
+interest  expense  increased  due to the same  borrowing  pattern as mentioned
+above. For the current period, other income increased from equity in income of
+affiliates  and from  settlement  of an insurance  claim.  As a percent of net
+sales,  other expense was 1.9% for the current period, as compared to 2.2% for
+the same period in the prior year.
+
+     INCOME TAXES
+
+     As a result of the above,  the Company's  pre-tax income was $7.5 million
+for the  quarter  ended  March 3,  2001,  compared  to a pre-tax  loss of $6.3
+million for last year's quarter.  For the current quarter,  income tax expense
+of $2.7 million was recorded with an effective tax rate of 36.3%,  as compared
+to an income tax benefit of $2.3 million  with an effective  rate of 36.1% for
+last year's comparable quarter.
+
+     For the  thirty-nine  week  period  ended  March 3, 2001,  the  Company's
+pre-tax  income was $10.0  million,  compared to pre-tax loss of $19.0 million
+for last year. For the current thirty-nine week period,  income tax expense of
+$3.7 million was recorded with an effective tax rate of 36.4%,  as compared to
+an income tax benefit of $7.0 million with an effective rate of 36.5% for last
+year's comparable period.
+
+     NET INCOME (LOSS)
+
+     Net income for the third quarter ended March 3, 2001 was $4.8 million, or
+$.40 per basic share,  compared to net loss of $4.0 million, or $.32 per basic
+share for last fiscal year's third quarter.
+
+     For the thirty-nine  week period ended March 3, 2001, net income was $6.4
+million,  or $.53 per basic share,  compared to last fiscal year's net loss of
+$12.1 million, or $.98 per basic share.
+
+                                      9
+
+<PAGE>
+
+
+     CAPITAL RESOURCES AND LIQUIDITY
+
+     The  Company's  working  capital  at March 3,  2001  was  $25.8  million,
+compared to $18.5  million at June 3, 2000.  The  Company's  current ratio was
+1.50 at March 3, 2001,  as compared  with 1.36 at June 3, 2000.  The Company's
+need for  working  capital  generally  is highest in the first and last fiscal
+quarters ending in August and May, respectively,  when egg prices are normally
+at seasonal lows.  Seasonal borrowing needs frequently are higher during these
+periods  than  during  other  fiscal  periods.  The  Company  had $35  million
+available  for use under its line of credit with three banks at March 3, 2001.
+The  Company's  long-term  debt at that date,  including  current  maturities,
+totaled $117.8 million, as compared to $119.7 million at June 3, 2000.
+
+     For the thirty-nine  weeks ended March 3, 2001, $18.7 million in net cash
+was provided by operating activities.  This compares to $10.1 million that was
+used in operating  activities for the  comparable  period last fiscal year. In
+the current  thirty-nine  week period,  $2.5 million was used for purchases of
+property,  plant and equipment,  $607,000 was received from sales of property,
+plant and equipment,  and $6.3 million was used for construction projects. Net
+cash of $468,000 was used for  additions to  investments  and other assets and
+payments  of  $939,000  were  received on notes  receivable  and  investments.
+Approximately  $1.3  million  was used for  purchase  of common  stock for the
+treasury and $456,000 was used for payments of dividends on the common  stock.
+Additional long-term  borrowings of $3.1 million were received.  Repayments of
+$5.0 million  were made on  long-term  debt and $7.5 million was repaid on the
+note payable to bank.  The net result was a decrease in cash of  approximately
+$162,000.
+
+     For the comparable  period last year, $4.5 million was used for purchases
+of property,  plant and  equipment,  $12.7  million was used for  construction
+projects,  and $36.2 million was used in acquisition of a shell egg operation.
+Approximately $1.0 million was used for purchase of common stock, and $457,000
+was used for payment of dividends on the common stock.  The Company,  as a 50%
+member, invested $1.2 million and loaned $1.5 million in the construction of a
+joint venture egg operation in Utah, Delta Egg Farm, LLC. The Company received
+$1.0 million from borrowings under its line of credit and long-term borrowings
+of $40.3  million.  Principal  payments of $3.2 million were made on long-term
+debt. The net result was a decrease in cash of $28.7 million.
+
+     Certain key industry  indicators  for shell eggs are currently  favorable
+for  fiscal  2001.   Baby  chicks  placed   during   calendar  2000  are  down
+approximately  5%  compared  to  calendar  1999.  This will tend to reduce the
+nationwide laying flock size in the current calendar year. Current projections
+for total laying flock size in the U. S. during the Company's  fiscal 2001 are
+only slightly larger than last fiscal year. With  anticipated  improved demand
+by the egg  industry,  this should result in higher  selling  prices for eggs.
+Current industry  indications are for a good corn and soybean supply for 2001.
+This should ensure favorable cost of feed for the current fiscal year.
+
+     Substantially all trade  receivables  collateralize the Company's line of
+credit,  and  property,   plant  and  equipment  collateralize  the  Company's
+long-term  debt.  The Company is required by certain  provisions of these loan
+agreements to (1) maintain  minimum  levels of working  capital and net worth;
+(2) limit dividends,  capital  expenditures,  lease obligations and additional
+long-term  borrowings;  and  (3)  maintain  various  current,  cash-flow,  and
+interest coverage ratios, among other restrictions.
+
+     At   March   3,    2001,    the    Company    had   $2.6    million    in
+construction-in-progress  which primarily represents construction of new shell
+egg production and processing facilities in Waelder, Texas. The estimated cost
+to  complete   construction  of  the  Waelder   facility  in  fiscal  2001  is
+approximately $500,000. The Company has a commitment from an insurance company
+to receive  $13.4  million in long-term  borrowings  applicable to the Waelder
+facility, of which $11.4 million was funded as of March 3, 2001. Including the
+completion  of  the  Waelder  facility,  the  Company  has  projected  capital
+expenditures  of $15.7  million in fiscal  2001,  which will be funded by cash
+flows from operations and additional long-term borrowings.
+
+     As part of the Smith Farms  purchase in  September  1999,  the Company is
+continuing the  construction  of egg  production and processing  facilities in
+Searcy,  Arkansas  and  Flatonia,  Texas.  The  projects are being funded by a
+leasing  company.  Total cost of the Searcy  facility is  approximately  $20.0
+million and completion is expected in the first quarter of fiscal 2002.  Total
+
+                                      10
+
+<PAGE>
+
+
+cost of the  Flatonia  facility  is  approximately  $16.0  and  completion  is
+anticipated in the second  quarter of fiscal 2002.  These  facilities  will be
+leased with seven year terms and accounted for as operating leases.
+
+
+     Impact of Recently Issued  Accounting  Standards.  The Company will adopt
+the  provisions of Financial  Accounting  Standards No. 133,  "Accounting  for
+Derivative  Instruments  and Hedging  Activities"  (SFAS No. 133) in the first
+quarter of fiscal  2002.  Because  the  Company  is not a party to  derivative
+financial instruments, management expects the adoption of SFAS No. 133 to have
+no effect on the consolidated financial statements of the Company.
+
+     Forward   Looking   Statements.    The   foregoing   statements   contain
+forward-looking  statements,  which involve risks, and  uncertainties  and the
+Company's actual  experience may differ  materially from that discussed above.
+Factors  that may cause such a  difference  include,  but are not  limited to,
+those discussed in "Factors  Affecting Future  Performance"  below, as well as
+future  events that have the effect of reducing the Company's  available  cash
+balances,  such as  unanticipated  operating  losses or  capital  expenditures
+related to possible  future  acquisitions.  Readers are cautioned not to place
+undue  reliance on  forward-looking  statements,  which  reflect  management's
+analysis only as the date hereof.  The Company assumes no obligation to update
+forward-looking  statements.  See also the Company's  reports to be filed from
+time to time with the  Securities  and  Exchange  Commission  pursuant  to the
+Securities Exchange Act of 1934.
+
+     Factors  Affecting  Future  Performance.  The Company's  future operating
+results  may be affected by various  trends and factors  beyond the  Company's
+control.  These include  adverse  changes in shell egg prices and in the grain
+markets.  Accordingly,  past trends  should not be used to  anticipate  future
+results and trends.  Further,  the Company's prior  performance  should not be
+presumed to be an accurate indication of future performance.
+
+
+ITEM 3. QUANTATIVE AND QUALITATIVE DISCLOSURES OF MARKET RISK
+
+     There have been no material  changes in the market  risk  reported in the
+Company's fiscal 2000 annual report on Form 10-K.
+
+                                      11
+
+<PAGE>
+
+
+                          PART II. OTHER INFORMATION
+
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+        a.   Exhibits
+
+             None
+
+        b.   Reports on Form 8-K
+
+        No current  report on Form 8-K was filed by the  Company  covering  an
+event during the third quarter of fiscal 2001.
+
+                                      12
+
+<PAGE>
+
+
+                                  SIGNATURES
+
+     Pursuant to the requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report to be  signed on its  behalf by the
+undersigned, thereunto duly authorized.
+
+                                                CAL-MAINE FOODS, INC.
+                                                (Registrant)
+
+
+Date:  April 10, 2001                            /s/BOBBY J. RAINES
+                                                -----------------------------
+                                                Bobby J. Raines
+                                                Vice President/Treasurer
+                                                (Principal Financial Officer)
+
+
+Date:  April 10, 2001                            /s/CHARLES F. COLLINS
+                                                -----------------------------
+                                                Charles F. Collins
+                                                Vice President/Controller
+                                                (Principal Accounting Officer)
+
+                                      13
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
