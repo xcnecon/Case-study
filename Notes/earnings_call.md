@@ -20,3 +20,10 @@ ASPs are under $10 in most cases
 
 Need another 500 farms to support supply for the new ECS in Indiana
 
+2025 Q1
+The recent price hike was a low double digit. But my concern is that egg prices are falling very fast in general. 
+
+Volumn growth yoy was only single digit, partly because they sell less second grade and waste eggs. Lack of inevntory is another reason. 
+
+
+
